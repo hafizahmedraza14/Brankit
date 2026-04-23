@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+
+
+#images img {
+    width: 150px;
+    height: auto;
+}
+
+#s-images img {
+    width: 150px;
+    height: 45px;
+}
