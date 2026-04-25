@@ -8,7 +8,7 @@ const Subscribe = () => {
                     <div className='bg-white shadow-[0_10px_30px_rgba(0,0,0,0.2)] mx-auto rounded-xl flex flex-col items-center justify-center gap-8 container mx-auto px-20 py-20'>
                         <div>
                             <h1 className=' text-[3.2rem] text-[#190E45] font-bold text-center'>Subscribe</h1>
-                            <p className='text-[1.70rem] text-[#190E45] text-center'>Subscribe our newsletter to stay updated every moment</p>
+                            <p className='text-[1.70rem] text-[#190E45] text-center'>Subscribe Our Newsletter to stay updated every moment</p>
                         </div>
                         <div className="flex w-full gap-2">
                             <input
