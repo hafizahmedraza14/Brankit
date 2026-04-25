@@ -13,7 +13,7 @@ const Footer = () => {
                             <div>
                                 <div className='flex items-center gap-1'>
                                     <img src={footer} className='w-18 h-18' alt="Footer Logo" />
-                                    <h2 className='text-3xl font-bold font-serif text-white'>Brankit</h2>
+                                    <h2 className='text-4xl font-semibold font-serif text-white'>Brankit</h2>
                                 </div>
                                 <div>
                                     <h2 className='text-4xl/12 font-semibold text-white mt-4'>
