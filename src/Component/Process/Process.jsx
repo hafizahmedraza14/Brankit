@@ -15,7 +15,7 @@ const Process = () => {
                 <div>
                     <div className='flex flex-col items-center justify-center pb-10'>
                         <h2 className='text-white text-[2.5rem] font-bold text-center'>Onboarding Process</h2>
-                        <h1 className=' text-[6.25rem] font-bold text-[#190E45] text-center [text-shadow:0px_0px_5px_#9479FF]'>No More Surprises</h1>
+                        <h1 className=' text-[6.25rem]/26 font-bold text-[#190E45] text-center [text-shadow:0px_0px_5px_#9479FF]'>No More Surprises</h1>
                     </div>
                     <div className='flex items-center justify-center gap-10 pb-20 border-b border-[#9479FF] px-20'>
                         <div className='w-1/2'>
@@ -39,7 +39,7 @@ const Process = () => {
                                 </div>
                                 <div className='flex gap-2 mt-5 items-center'>
                                     <IoMdSettings className='text-center bg-[#321C88] border-2 border-[#9479FF] text-[#9479FF] w-11 h-11 p-2 rounded-full' />
-                                    <h6 className='text-[#9479FF] text-md'>Operations Overview</h6>
+                                    <h6 className='text-[#9479FF] text-md'>Operations Overviews</h6>
                                 </div>
                             </div>
                         </div>
